@@ -70,13 +70,13 @@ data () {
 ###展示
 
 一次密码
-![1-1](pubilc/1-1.jpeg) 
+![1-1](pubilc/1-1.jpg) ![1-2](pubilc/1-2.jpg)
 
-![1-2](pubilc/1-2.jpeg)
+
 
 二次密码
-![2-1](pubilc/2-1.jpeg)
+![2-1](pubilc/2-1.jpg) ![2-2](pubilc/2-2.jpg)
 
-![2-2](pubilc/2-2.jpeg)
+
 
 感谢您的阅读，[欢迎start](https://github.com/mrhaoxiaojun/vue-mobile-pay.git)一起学习
