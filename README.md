@@ -70,11 +70,17 @@ data () {
 ###展示
 
 一次密码
+
+
+
 ![1-1](pubilc/1-1.jpg) ![1-2](pubilc/1-2.jpg)
 
 
 
 二次密码
+
+
+
 ![2-1](pubilc/2-1.jpg) ![2-2](pubilc/2-2.jpg)
 
 
