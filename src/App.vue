@@ -7,7 +7,8 @@
     <vue-mobile-pay 
     :isPay="isPay"
     @close = "payClose"
-    :is2times = "true"
+    :is2times = "false"
+    :isMess = "true"
     :getPassword = "payPw">
     </vue-mobile-pay>
     <p>

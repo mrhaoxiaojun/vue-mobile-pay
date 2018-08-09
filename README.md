@@ -66,6 +66,7 @@ data () {
 | highlightColor | 数字键盘带你后高亮色值   | String   | #ccc      | 非        |
 | isPay          | 是否显示支付密码      | Boolean  | false     | 必        |
 | is2times       | 是否两次输入密码      | Boolean  | false     | 非        |
+| isMess         | 数字键盘是否乱序      | Boolean  | false     | 非        |
 
 ###展示
 
